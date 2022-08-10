@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfaa9e5c-4552-4001-b0d1-543833567595" name="Changes" comment="Third commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cfaa9e5c-4552-4001-b0d1-543833567595" name="Changes" comment="Fourth commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +37,7 @@
       <workItem from="1659791257208" duration="206000" />
       <workItem from="1659892194031" duration="16000" />
       <workItem from="1659892214001" duration="391000" />
+      <workItem from="1660077396074" duration="290000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1659679999987</created>
@@ -68,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659892500225</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fourth commit">
+      <created>1660077449500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660077449500</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fourth commit">
+      <created>1660077508249</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660077508249</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +104,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit" />
     <MESSAGE value="Third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third commit" />
+    <MESSAGE value="Fourth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth commit" />
   </component>
 </project>

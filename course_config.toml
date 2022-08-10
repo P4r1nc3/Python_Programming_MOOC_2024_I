@@ -1,152 +1,108 @@
 course = 'mooc-programming-22'
-[exercises.part04-01_hello_visual_studio_code]
-id = 151988
-checksum = '53f03b6ad926b8a798faf5acc5c1c1b5'
+[exercises.part05-01_longest_string]
+id = 151831
+checksum = '27bfd4904f6f7fce0948d3ea35f8a110'
 
-[exercises.part04-02_line]
-id = 151991
-checksum = 'd74744a81be733c6e8bdfc4d61aedd3d'
+[exercises.part05-02_number_of_elements]
+id = 151820
+checksum = 'daa5bfff71ba9901481f670ee8065e96'
 
-[exercises.part04-03_box_of_hashes]
-id = 151981
-checksum = '2ad5ccea27a7dc0aeb9a160653c6a6e2'
+[exercises.part05-03_go]
+id = 151818
+checksum = '825aa0b64f9de5d9cde4e32f9988a93f'
 
-[exercises.part04-04_square_of_hashes]
-id = 151973
-checksum = '0d8c756c7849f44be46d86255dfc7e20'
+[exercises.part05-04_sudoku_row]
+id = 151834
+checksum = '0fdc4c67ccae6e33480418eb380e416d'
 
-[exercises.part04-05_square]
-id = 151984
-checksum = '656bd123c3abcd5308f32f2facbf10a3'
+[exercises.part05-05_sudoku_column]
+id = 151829
+checksum = '7ea5c1b5783cbd4b3e8db8d7ad38b53d'
 
-[exercises.part04-06_triangle]
-id = 152001
-checksum = 'e1cd790d29d224e62f8a9b9fffdf71e2'
+[exercises.part05-06_sudoku_block]
+id = 151810
+checksum = 'f9f7cc09e2657e8f222371f620d9dfbb'
 
-[exercises.part04-07_shape]
-id = 151978
-checksum = '48473fc896ec8a81ebf7d74a61e8caa6'
+[exercises.part05-07_sudoku_grid]
+id = 151823
+checksum = '667bfcafa21b221fbc167499fdd02da2'
 
-[exercises.part04-08_spruce]
-id = 151997
-checksum = '473dea7561a5d99957237a496f1bd001'
+[exercises.part05-08_items_multiplied_by_two]
+id = 151817
+checksum = '2d2384800c0d59428ce7d1a25deb7162'
 
-[exercises.part04-09_greatest_number]
-id = 151983
-checksum = '851b802b108fcb725314a6bfc515099a'
+[exercises.part05-09_remove_smallest]
+id = 151814
+checksum = '5b67e1d4437d5dfe610d3c2eec1a5ed5'
 
-[exercises.part04-10_same_characters]
-id = 152000
-checksum = '22bb796e39ea2b330e13b259bae47ab2'
+[exercises.part05-10_sudoku_print_and_add]
+id = 151836
+checksum = '4a5a08b0ff30ae36013361c0a6e7485e'
 
-[exercises.part04-11_first_second_last]
-id = 151974
-checksum = '2e96877cddd73f1c1c59492d1a0c9b40'
+[exercises.part05-11_sudoku_add_to_copy]
+id = 151826
+checksum = '09fb363fec1f60a9ccbc0a12f10eca00'
 
-[exercises.part04-12_change_value_of_item]
-id = 151975
-checksum = '517fdd26d4eca78d44ae452f0371ac61'
+[exercises.part05-12_tic_tac_toe]
+id = 151824
+checksum = '8f55f10b7d033dd70f6a4f74fefbe9ff'
 
-[exercises.part04-13_add_items_to_list]
-id = 151968
-checksum = 'd82d708ac36a01721afe2f65cf1a65d7'
+[exercises.part05-13_transpose_matrix]
+id = 151828
+checksum = 'fd4395482ecf42678ae836be6e85db94'
 
-[exercises.part04-14_addition_and_removal]
-id = 151992
-checksum = '0106c35f0f0e7543f3413c4f2189f295'
+[exercises.part05-14_times_ten]
+id = 151827
+checksum = '971fea5d40fea666a02a0308d62387b7'
 
-[exercises.part04-15_same_word_twice]
-id = 151998
-checksum = 'd95508225b8d45f01551f1846e6b0242'
+[exercises.part05-15_factorials]
+id = 151830
+checksum = '4d9f54a425e3a67e38590b5dbb01f3a9'
 
-[exercises.part04-16_list_twice]
-id = 151980
-checksum = '6ccbc749edad6c6d5e7dce779f670604'
+[exercises.part05-16_histogram]
+id = 151813
+checksum = '2481bde05b6d22b5319c8e960e52a440'
 
-[exercises.part04-17_length_of_list]
-id = 151993
-checksum = '9cf301b09fb83f206150464f85ccd02a'
+[exercises.part05-17_phone_book_v1]
+id = 151819
+checksum = '0648d4f9b1a7b5e73ef4753ae819b1a6'
 
-[exercises.part04-18_mean]
-id = 152003
-checksum = '01b651dbdb6640536c204869fcd8b00c'
+[exercises.part05-18_phone_book_v2]
+id = 151821
+checksum = '8f810c22fdd0548f27303234847c94b4'
 
-[exercises.part04-19_range_of_list]
-id = 151995
-checksum = '1e08e6ac5c0c63ebc66d9d69e84476f4'
+[exercises.part05-19_invert_dictionary]
+id = 151811
+checksum = '9d7be9e7653cc54a47f58b06e9b22baa'
 
-[exercises.part04-20_star_studded]
-id = 151987
-checksum = 'fbcab2d08087887a4d8b27feb6788e11'
+[exercises.part05-20_numbers_spelled_out]
+id = 151822
+checksum = 'e35d8671dbc20736f65063d672f88f85'
 
-[exercises.part04-21_negative_to_positive]
-id = 151986
-checksum = '4f046841f26c7e9b7ab128f206d70494'
+[exercises.part05-21_movie_database]
+id = 151816
+checksum = '9662cac645d8335994fe842be6d101c0'
 
-[exercises.part04-22_list_of_stars]
-id = 151977
-checksum = '2108df6cb9ee42c1dd995ae0847a3a38'
+[exercises.part05-22_find_movies]
+id = 151815
+checksum = '5f7310035359bed7b9bbfc90c8e19ac6'
 
-[exercises.part04-23_anagrams]
-id = 151971
-checksum = 'aff92c0c7f18fbbe382b8484dae4d91a'
+[exercises.part05-23_create_tuple]
+id = 151825
+checksum = '4493c2d1f146469d8ddfa3f48bfa278d'
 
-[exercises.part04-24_palindromes]
-id = 151970
-checksum = '5a2724a0a9d96815de6806e333fff4aa'
+[exercises.part05-24_oldest_person]
+id = 151812
+checksum = '34d827930b2ba8e29f5914c24b04a9b7'
 
-[exercises.part04-25_sum_of_positives]
-id = 152002
-checksum = 'a0268dc15b691c52f7db957c324f95f8'
+[exercises.part05-25_older_people]
+id = 151833
+checksum = 'dd08c2cbd9a60168a0ea077c9f3901d1'
 
-[exercises.part04-26_even_numbers]
-id = 151990
-checksum = '48dee3ef1f8993e6a973a4c9611b3bed'
+[exercises.part05-26_student_database]
+id = 151832
+checksum = '2340604c86baff1659158177ee516486'
 
-[exercises.part04-27_sum_of_lists]
-id = 151994
-checksum = 'e48b09162a829eaa015ed6cca8f7fe0a'
-
-[exercises.part04-28_distinct_numbers]
-id = 151976
-checksum = 'd401fdf63f3f3e98fecbe462f9ea94be'
-
-[exercises.part04-29_length_of_longest]
-id = 151966
-checksum = 'b5d8cbdcc4306cea77cf2ab83a79f30b'
-
-[exercises.part04-30_shortest_in_list]
-id = 151989
-checksum = '150226ddf9bf11b44cdfbfa4701ddaa0'
-
-[exercises.part04-31_all_longest_in_list]
-id = 151972
-checksum = 'baa5ec110068d815440487becc1fef75'
-
-[exercises.part04-32_integers_to_strings]
-id = 151999
-checksum = '44ec0cc1444a25efc16a5fd669f9619b'
-
-[exercises.part04-33_everything_reversed]
-id = 151979
-checksum = 'e4daefb8fb1ef5d6450da93caab1929e'
-
-[exercises.part04-34_most_common_character]
-id = 151985
-checksum = 'f752acda538ab84b07917ad5fe4272a8'
-
-[exercises.part04-35_no_vowels_allowed]
-id = 151969
-checksum = '919a73b7eef401b37241fcef8ed32061'
-
-[exercises.part04-36_no_shouting_allowed]
-id = 151967
-checksum = '35ebe2fbbb19202bcdd85f56d4161397'
-
-[exercises.part04-37_neighbours_in_list]
-id = 151982
-checksum = 'f3d4614493e0c29e7262da19266dd2cb'
-
-[exercises.part04-38_grade_statistics]
-id = 151996
-checksum = 'a0659c42eec2020cabde74b1d1873d08'
+[exercises.part05-27_letter_square]
+id = 151835
+checksum = '43f34ab9946666d5c11ccf2e9a584854'
