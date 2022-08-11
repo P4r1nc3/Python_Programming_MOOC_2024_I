@@ -1,0 +1,34 @@
+Pancakes
+15
+milk
+eggs
+flour
+sugar
+salt
+butter
+
+Meatballs
+45
+mince
+eggs
+breadcrumbs
+
+Tofu rolls
+30
+tofu
+rice
+water
+carrot
+cucumber
+avocado
+wasabi
+
+Cake pops
+60
+milk
+bicarbonate
+eggs
+salt
+sugar
+cardamom
+butter

@@ -1,0 +1,40 @@
+Coconut cake
+80
+eggs
+sugar
+flour
+bicarbonate
+coconut
+butter
+water
+
+Oat porridge
+6
+oats
+water
+salt
+
+Strawberry trifle
+2
+strawberries
+quark
+cream
+sugar
+
+Aloo gobi
+25
+oil
+onion
+potato
+cauliflower
+garlic
+curry
+cumin
+peas
+salt
+pepper
+coriander
+
+Almond fish
+45
+fish

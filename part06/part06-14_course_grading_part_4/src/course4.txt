@@ -1,0 +1,2 @@
+name: Databases
+study credits: 7

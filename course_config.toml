@@ -1,108 +1,76 @@
 course = 'mooc-programming-22'
-[exercises.part05-01_longest_string]
-id = 151831
-checksum = '27bfd4904f6f7fce0948d3ea35f8a110'
+[exercises.part06-01_largest_number]
+id = 151932
+checksum = '128f64f61b34cdeec87708de88a4f9f2'
 
-[exercises.part05-02_number_of_elements]
-id = 151820
-checksum = 'daa5bfff71ba9901481f670ee8065e96'
+[exercises.part06-02_fruit_market]
+id = 151929
+checksum = 'dc40a9c36ce4038ee8100bf5498661dd'
 
-[exercises.part05-03_go]
-id = 151818
-checksum = '825aa0b64f9de5d9cde4e32f9988a93f'
+[exercises.part06-03_matrix]
+id = 151933
+checksum = '4ca789bffb78151c36976c7ef8309757'
 
-[exercises.part05-04_sudoku_row]
-id = 151834
-checksum = '0fdc4c67ccae6e33480418eb380e416d'
+[exercises.part06-04_course_grading_part_1]
+id = 151928
+checksum = 'f35fad9f23560cad46fa224a80b946bc'
 
-[exercises.part05-05_sudoku_column]
-id = 151829
-checksum = '7ea5c1b5783cbd4b3e8db8d7ad38b53d'
+[exercises.part06-05_course_grading_part_2]
+id = 151940
+checksum = '9d66134f9f7115117d8efec795ea30f1'
 
-[exercises.part05-06_sudoku_block]
-id = 151810
-checksum = 'f9f7cc09e2657e8f222371f620d9dfbb'
+[exercises.part06-06_course_grading_part_3]
+id = 151938
+checksum = 'e65f42cdd26f9a438b783c494644d201'
 
-[exercises.part05-07_sudoku_grid]
-id = 151823
-checksum = '667bfcafa21b221fbc167499fdd02da2'
+[exercises.part06-07_spellchecker]
+id = 151946
+checksum = '088b17d99e1c2c5b09593131a9c0d6cd'
 
-[exercises.part05-08_items_multiplied_by_two]
-id = 151817
-checksum = '2d2384800c0d59428ce7d1a25deb7162'
+[exercises.part06-08_recipe_search]
+id = 151939
+checksum = '4d9a4ab2e3b1b7fe0ceddac2318e05e2'
 
-[exercises.part05-09_remove_smallest]
-id = 151814
-checksum = '5b67e1d4437d5dfe610d3c2eec1a5ed5'
+[exercises.part06-09_city_bikes]
+id = 151942
+checksum = 'd40a7c30e1a54b037676efbfd086b130'
 
-[exercises.part05-10_sudoku_print_and_add]
-id = 151836
-checksum = '4a5a08b0ff30ae36013361c0a6e7485e'
+[exercises.part06-10_inscription]
+id = 151934
+checksum = 'a15aa87ce7179f4985a59b911cc05f1d'
 
-[exercises.part05-11_sudoku_add_to_copy]
-id = 151826
-checksum = '09fb363fec1f60a9ccbc0a12f10eca00'
+[exercises.part06-11_diary]
+id = 151936
+checksum = 'bd775e74ffbf5f33d346ce56b26c47a2'
 
-[exercises.part05-12_tic_tac_toe]
-id = 151824
-checksum = '8f55f10b7d033dd70f6a4f74fefbe9ff'
+[exercises.part06-12_filtering_file_contents]
+id = 151944
+checksum = '97ac5cf1169e630c0e03b66f78c58534'
 
-[exercises.part05-13_transpose_matrix]
-id = 151828
-checksum = 'fd4395482ecf42678ae836be6e85db94'
+[exercises.part06-13_store_personal_data]
+id = 151937
+checksum = 'be9444864d1f253ca7af07eaeca1a204'
 
-[exercises.part05-14_times_ten]
-id = 151827
-checksum = '971fea5d40fea666a02a0308d62387b7'
+[exercises.part06-14_course_grading_part_4]
+id = 151941
+checksum = 'f394a67c340097c6605ec49d86ae6076'
 
-[exercises.part05-15_factorials]
-id = 151830
-checksum = '4d9f54a425e3a67e38590b5dbb01f3a9'
+[exercises.part06-15_word_search]
+id = 151945
+checksum = 'b7de529d75427080d1e9447e7e8d28ea'
 
-[exercises.part05-16_histogram]
-id = 151813
-checksum = '2481bde05b6d22b5319c8e960e52a440'
+[exercises.part06-16_dictionary_file]
+id = 151931
+checksum = 'b1440d20b21cfec94412c5eae17671e1'
 
-[exercises.part05-17_phone_book_v1]
-id = 151819
-checksum = '0648d4f9b1a7b5e73ef4753ae819b1a6'
+[exercises.part06-17_read_input]
+id = 151935
+checksum = '9cfa27b8753fb182c9fb0229b67ffb37'
 
-[exercises.part05-18_phone_book_v2]
-id = 151821
-checksum = '8f810c22fdd0548f27303234847c94b4'
+[exercises.part06-18_parameter_validation]
+id = 151943
+checksum = 'c4e43deda7163ffa06741f00b3e8abdd'
 
-[exercises.part05-19_invert_dictionary]
-id = 151811
-checksum = '9d7be9e7653cc54a47f58b06e9b22baa'
-
-[exercises.part05-20_numbers_spelled_out]
-id = 151822
-checksum = 'e35d8671dbc20736f65063d672f88f85'
-
-[exercises.part05-21_movie_database]
-id = 151816
-checksum = '9662cac645d8335994fe842be6d101c0'
-
-[exercises.part05-22_find_movies]
-id = 151815
-checksum = '5f7310035359bed7b9bbfc90c8e19ac6'
-
-[exercises.part05-23_create_tuple]
-id = 151825
-checksum = '4493c2d1f146469d8ddfa3f48bfa278d'
-
-[exercises.part05-24_oldest_person]
-id = 151812
-checksum = '34d827930b2ba8e29f5914c24b04a9b7'
-
-[exercises.part05-25_older_people]
-id = 151833
-checksum = 'dd08c2cbd9a60168a0ea077c9f3901d1'
-
-[exercises.part05-26_student_database]
-id = 151832
-checksum = '2340604c86baff1659158177ee516486'
-
-[exercises.part05-27_letter_square]
-id = 151835
-checksum = '43f34ab9946666d5c11ccf2e9a584854'
+[exercises.part06-19_incorrect_lottery_numbers]
+id = 151930
+checksum = '7984bd56e31eb50c346535ae400cf098'

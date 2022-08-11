@@ -1,0 +1,2 @@
+name: Introduction to Programming
+study credits: 5
