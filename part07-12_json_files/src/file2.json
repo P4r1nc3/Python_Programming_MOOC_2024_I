@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Alf Newlyinventend",
+        "age": 42,
+        "hobbies": [
+            "karate"
+        ]
+    },
+    {
+        "name": "Frances Fictious",
+        "age": 52,
+        "hobbies": [
+            "running", "martial arts"
+        ]
+    },
+    {
+        "name": "Emily Paulson",
+        "age": 4,
+        "hobbies": [
+            "puzzles"
+        ]
+    }
+]

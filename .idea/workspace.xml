@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfaa9e5c-4552-4001-b0d1-543833567595" name="Changes" comment="Fifth commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/course_config.toml" afterDir="false" />
-    </list>
+    <list default="true" id="cfaa9e5c-4552-4001-b0d1-543833567595" name="Changes" comment="Sixth commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +40,7 @@
       <workItem from="1660077396074" duration="290000" />
       <workItem from="1660164162929" duration="127000" />
       <workItem from="1660230945618" duration="47000" />
+      <workItem from="1660231203825" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1659679999987</created>
@@ -93,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660164209091</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Sixth commit">
+      <created>1660231220308</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660231220308</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +123,7 @@
     <MESSAGE value="Third commit" />
     <MESSAGE value="Fourth commit" />
     <MESSAGE value="Fifth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fifth commit" />
+    <MESSAGE value="Sixth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sixth commit" />
   </component>
 </project>

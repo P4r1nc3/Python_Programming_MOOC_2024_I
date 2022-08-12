@@ -1,76 +1,72 @@
 course = 'mooc-programming-22'
-[exercises.part06-01_largest_number]
-id = 151932
-checksum = '128f64f61b34cdeec87708de88a4f9f2'
+[exercises.part07-01_hypotenuse]
+id = 152021
+checksum = '943685b853591b2b99d26943437ed2e4'
 
-[exercises.part06-02_fruit_market]
-id = 151929
-checksum = 'dc40a9c36ce4038ee8100bf5498661dd'
+[exercises.part07-02_special_characters]
+id = 152008
+checksum = 'cb13f824fcb36019c2d4d7762f2ad2e6'
 
-[exercises.part06-03_matrix]
-id = 151933
-checksum = '4ca789bffb78151c36976c7ef8309757'
+[exercises.part07-03_fractions]
+id = 152013
+checksum = '2663b23a4209e7245dedb484ac8584c1'
 
-[exercises.part06-04_course_grading_part_1]
-id = 151928
-checksum = 'f35fad9f23560cad46fa224a80b946bc'
+[exercises.part07-04_lottery_numbers]
+id = 152014
+checksum = '53acc1d6ae2300162ad26794a486cf7f'
 
-[exercises.part06-05_course_grading_part_2]
-id = 151940
-checksum = '9d66134f9f7115117d8efec795ea30f1'
+[exercises.part07-05_password_generator_part_1]
+id = 152007
+checksum = 'd434c3f6db036568d35ed587c0c493cb'
 
-[exercises.part06-06_course_grading_part_3]
-id = 151938
-checksum = 'e65f42cdd26f9a438b783c494644d201'
+[exercises.part07-06_password_generator_part_2]
+id = 152019
+checksum = '0f6d0fb3d833a1401eb4fbcbbc4eec23'
 
-[exercises.part06-07_spellchecker]
-id = 151946
-checksum = '088b17d99e1c2c5b09593131a9c0d6cd'
+[exercises.part07-07_dice_roller]
+id = 152012
+checksum = 'd11e7b7a578c57a7b35d4b47bfa61ded'
 
-[exercises.part06-08_recipe_search]
-id = 151939
-checksum = '4d9a4ab2e3b1b7fe0ceddac2318e05e2'
+[exercises.part07-08_random_words]
+id = 152017
+checksum = 'a0bc802f27442564165e80ad6c79a962'
 
-[exercises.part06-09_city_bikes]
-id = 151942
-checksum = 'd40a7c30e1a54b037676efbfd086b130'
+[exercises.part07-09_how_old]
+id = 152020
+checksum = '27d20c141654e3115946ec25b5dafffb'
 
-[exercises.part06-10_inscription]
-id = 151934
-checksum = 'a15aa87ce7179f4985a59b911cc05f1d'
+[exercises.part07-10_valid_pic]
+id = 152010
+checksum = '547883b55edc9aadad1786fc3ac7ee05'
 
-[exercises.part06-11_diary]
-id = 151936
-checksum = 'bd775e74ffbf5f33d346ce56b26c47a2'
+[exercises.part07-11_screen_time]
+id = 152004
+checksum = '2197de09975b5d5ba1906d0c9cc3c31b'
 
-[exercises.part06-12_filtering_file_contents]
-id = 151944
-checksum = '97ac5cf1169e630c0e03b66f78c58534'
+[exercises.part07-12_json_files]
+id = 152005
+checksum = 'e57b4b60401068fb89ab906c835784d0'
 
-[exercises.part06-13_store_personal_data]
-id = 151937
-checksum = 'be9444864d1f253ca7af07eaeca1a204'
+[exercises.part07-13_course_statistics]
+id = 152009
+checksum = 'df6ec1027c08acfb1ee3ca6ccea36daf'
 
-[exercises.part06-14_course_grading_part_4]
-id = 151941
-checksum = 'f394a67c340097c6605ec49d86ae6076'
+[exercises.part07-14_who_cheated]
+id = 152016
+checksum = 'df7fecb471d23c4506bfeecb2fe8f8ae'
 
-[exercises.part06-15_word_search]
-id = 151945
-checksum = 'b7de529d75427080d1e9447e7e8d28ea'
+[exercises.part07-15_who_cheated_2]
+id = 152018
+checksum = 'cfb96f635f2cadc130df768ccce671ff'
 
-[exercises.part06-16_dictionary_file]
-id = 151931
-checksum = 'b1440d20b21cfec94412c5eae17671e1'
+[exercises.part07-16_spellchecker_2]
+id = 152006
+checksum = 'b50379047603d3c031ae5a7c4a991347'
 
-[exercises.part06-17_read_input]
-id = 151935
-checksum = '9cfa27b8753fb182c9fb0229b67ffb37'
+[exercises.part07-17_string_helper]
+id = 152011
+checksum = '12b0968c95c2ca1ff2446226bac7361a'
 
-[exercises.part06-18_parameter_validation]
-id = 151943
-checksum = 'c4e43deda7163ffa06741f00b3e8abdd'
-
-[exercises.part06-19_incorrect_lottery_numbers]
-id = 151930
-checksum = '7984bd56e31eb50c346535ae400cf098'
+[exercises.part07-18_own_programming_language]
+id = 152015
+checksum = '85f451181b069b4e31f6c8b45b800cde'

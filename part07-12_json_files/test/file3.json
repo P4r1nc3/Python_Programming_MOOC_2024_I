@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Emerson Lawson",
+        "age": 78,
+        "hobbies": [
+            "reading", 
+            "running"
+        ]
+    },
+    {
+        "name": "Sammy Evans",
+        "age": 32,
+        "hobbies": [
+            "algorithms", 
+            "playing violin"
+        ]
+    },
+    {
+        "name": "Bev Holmes",
+        "age": 8,
+        "hobbies": [
+            "parkour", 
+            "basket ball"
+        ]
+    },
+    {
+        "name": "Logan Gray",
+        "age": 8,
+        "hobbies": [
+            "football", "airplanes"
+        ]
+    },
+    {
+        "name": "Gabe Webb",
+        "age": 46,
+        "hobbies": [
+            "programming", "spectator sports"
+        ]
+    }
+]

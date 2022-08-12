@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Peter Pythons",
+        "age": 27,
+        "hobbies": [
+            "coding",
+            "knitting"
+        ]
+    },
+    {
+        "name": "Jean Javanese",
+        "age": 24,
+        "hobbies": [
+            "coding",
+            "rock climbing",
+            "reading"
+        ]
+    }
+]
