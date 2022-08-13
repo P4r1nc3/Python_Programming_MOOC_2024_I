@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Jane Doe",
+        "age": 100,
+        "hobbies": []
+    },
+    {
+        "name": "Sanna Marin",
+        "age": 38,
+        "hobbies": [
+            "history", "politics"
+        ]
+    },
+    {
+        "name": "Janja Garnbret",
+        "age": 21,
+        "hobbies": [
+            "bouldering", "rock climbing"
+        ]
+    },
+    {
+        "name": "Adam Ondra",
+        "age": 28,
+        "hobbies": [
+            "bouldering", "rock climbing"
+        ]
+    },
+    {
+        "name": "Barack Obama",
+        "age": 62,
+        "hobbies": [
+            "politics", "music"
+        ]
+    },
+    {
+        "name": "Elisabeth Rehn",
+        "age": 78,
+        "hobbies": [
+            "national defense", "music"
+        ]
+    }
+]
