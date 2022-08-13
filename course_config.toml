@@ -1,36 +1,4 @@
 course = 'mooc-programming-22'
-[exercises.part07-01_hypotenuse]
-id = 152021
-checksum = '943685b853591b2b99d26943437ed2e4'
-
-[exercises.part07-02_special_characters]
-id = 152008
-checksum = 'cb13f824fcb36019c2d4d7762f2ad2e6'
-
-[exercises.part07-03_fractions]
-id = 152013
-checksum = '2663b23a4209e7245dedb484ac8584c1'
-
-[exercises.part07-04_lottery_numbers]
-id = 152014
-checksum = '53acc1d6ae2300162ad26794a486cf7f'
-
-[exercises.part07-05_password_generator_part_1]
-id = 152007
-checksum = 'd434c3f6db036568d35ed587c0c493cb'
-
-[exercises.part07-06_password_generator_part_2]
-id = 152019
-checksum = '0f6d0fb3d833a1401eb4fbcbbc4eec23'
-
-[exercises.part07-07_dice_roller]
-id = 152012
-checksum = 'd11e7b7a578c57a7b35d4b47bfa61ded'
-
-[exercises.part07-08_random_words]
-id = 152017
-checksum = 'a0bc802f27442564165e80ad6c79a962'
-
 [exercises.part07-09_how_old]
 id = 152020
 checksum = '27d20c141654e3115946ec25b5dafffb'
