@@ -4,7 +4,7 @@ if num < 0 or num > 100:
     print("Grade: impossible!")
 elif num < 49:
     print("Grade: fail")
-elif num > 49 and num <= 59:
+elif num >= 49 and num <= 59:
     print("Grade: 1")
 elif num >= 60 and num <= 69:
     print("Grade: 2")
