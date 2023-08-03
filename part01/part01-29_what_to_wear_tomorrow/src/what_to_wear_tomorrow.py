@@ -8,7 +8,6 @@ if temp < 21:
     print("I recommend a jumper as well")
 
 if temp < 11:
-    print("I recommend a jumper as well")
     print("Take a jacket with you")
 
 if temp < 6:  
